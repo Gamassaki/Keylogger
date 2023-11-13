@@ -1,1 +1,1 @@
-Keylogger é a ação de gravar/registrar as teclas pressionadas em um teclado, normalmente de maneira secreta, para que a pessoa que usa o teclado não saiba que suas ações estão sendo monitoradas.
+<p> Keylogger é a ação de gravar/registrar as teclas pressionadas em um teclado, normalmente de maneira secreta, para que a pessoa que usa o teclado não saiba que suas ações estão sendo monitoradas. </p>
